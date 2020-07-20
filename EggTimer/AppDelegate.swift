@@ -2,13 +2,13 @@
 //  AppDelegate.swift
 //  EggTimer
 //
-//  Created by Angela Yu on 08/07/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by MB using Angela Yu's tutorial 07/11/2020.
 //
 
 import UIKit
 
 @UIApplicationMain
+
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
